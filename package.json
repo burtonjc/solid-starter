@@ -1,0 +1,25 @@
+{
+  "name": "solid-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burtonjc/solid-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burtonjc/solid-starter/issues"
+  },
+  "homepage": "https://github.com/burtonjc/solid-starter#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "local-web-server": "^2.6.1",
+    "rdflib": "^0.19.1",
+    "solid-auth-client": "^2.2.14"
+  }
+}
